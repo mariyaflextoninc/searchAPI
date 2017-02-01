@@ -6,17 +6,17 @@
 			<class name="com.test.automation.searchapi.SearchTermTest" />
 		</classes>
 	</test>
-	<test name="test1">
+	<test name="test2">
 		<classes>
 			<class name="com.test.automation.searchapi.SearchCountryTest" />
 		</classes>
 	</test>
-	<test name="test1">
+	<test name="test3">
 		<classes>
 			<class name="com.test.automation.searchapi.SearchMediaTest" />
 		</classes>
 	</test>
-	<test name="test1">
+	<test name="test4">
 		<classes>
 			<class name="com.test.automation.searchapi.SearchLimitTest" />
 		</classes>
